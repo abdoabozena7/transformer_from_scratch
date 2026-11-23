@@ -1,0 +1,6 @@
+/.runtime-proof/
+/.notebook-parts/
+/outputs/
+/.venv/
+.ipynb_checkpoints/
+__pycache__/
